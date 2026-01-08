@@ -1,0 +1,7 @@
+README.md
+main.py
+pyproject.toml
+ecommerce_product_assistant.egg-info/PKG-INFO
+ecommerce_product_assistant.egg-info/SOURCES.txt
+ecommerce_product_assistant.egg-info/dependency_links.txt
+ecommerce_product_assistant.egg-info/top_level.txt
